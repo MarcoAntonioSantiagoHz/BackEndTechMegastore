@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechMegStore.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e581213e07a7b91d2a70875da906a8c93da24fa6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d8cc681345cdfb28ee2e37d8f6f52d79bab301")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechMegStore.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechMegStore.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

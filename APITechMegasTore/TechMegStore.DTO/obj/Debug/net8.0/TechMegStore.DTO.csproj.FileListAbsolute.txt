@@ -1,0 +1,12 @@
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\bin\Debug\net8.0\TechMegStore.DTO.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\bin\Debug\net8.0\TechMegStore.DTO.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\bin\Debug\net8.0\TechMegStore.DTO.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\refint\TechMegStore.DTO.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\TechMegStore.DTO.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DTO\obj\Debug\net8.0\ref\TechMegStore.DTO.dll

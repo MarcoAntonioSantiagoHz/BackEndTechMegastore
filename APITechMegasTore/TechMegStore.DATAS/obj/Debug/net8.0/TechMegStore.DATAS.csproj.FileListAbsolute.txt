@@ -1,0 +1,16 @@
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\bin\Debug\net8.0\TechMegStore.DATAS.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\bin\Debug\net8.0\TechMegStore.DATAS.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\bin\Debug\net8.0\TechMegStore.DATAS.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\refint\TechMegStore.DATAS.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\ref\TechMegStore.DATAS.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\bin\Debug\net8.0\TechMegStore.Models.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\bin\Debug\net8.0\TechMegStore.Models.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegStore.DATAS.csproj.AssemblyReference.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.DATAS\obj\Debug\net8.0\TechMegS.45E74268.Up2Date

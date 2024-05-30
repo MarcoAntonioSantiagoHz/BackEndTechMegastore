@@ -1,0 +1,15 @@
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\bin\Debug\net8.0\TechMegStore.Models.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\bin\Debug\net8.0\TechMegStore.Models.runtimeconfig.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\bin\Debug\net8.0\TechMegStore.Models.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\bin\Debug\net8.0\TechMegStore.Models.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.csproj.AssemblyReference.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\refint\TechMegStore.Models.dll
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.pdb
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\TechMegStore.Models.genruntimeconfig.cache
+C:\Users\Marco Antonio\Documents\GitHub\BackEndTechMegastore\APITechMegasTore\TechMegStore.Models\obj\Debug\net8.0\ref\TechMegStore.Models.dll

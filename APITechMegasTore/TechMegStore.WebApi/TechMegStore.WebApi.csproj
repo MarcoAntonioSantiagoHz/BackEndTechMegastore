@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TechMegStore.BLL\TechMegStore.BLL.csproj" />
+    <ProjectReference Include="..\TechMegStore.DTO\TechMegStore.DTO.csproj" />
+    <ProjectReference Include="..\TechMegStore.IOC\TechMegStore.IOC.csproj" />
+  </ItemGroup>
+
 </Project>

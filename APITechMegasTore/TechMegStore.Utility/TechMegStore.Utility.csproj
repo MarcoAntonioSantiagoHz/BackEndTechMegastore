@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TechMegStore.DTO\TechMegStore.DTO.csproj" />
+    <ProjectReference Include="..\TechMegStore.Models\TechMegStore.Models.csproj" />
+  </ItemGroup>
+
 </Project>
