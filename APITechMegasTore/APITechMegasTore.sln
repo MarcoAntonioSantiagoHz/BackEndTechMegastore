@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.WebApi", "TechMegStore.WebApi\TechMegStore.WebApi.csproj", "{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechMegStore.WebApi", "TechMegStore.WebApi\TechMegStore.WebApi.csproj", "{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.DATAS", "TechMegStore.DATAS\TechMegStore.DATAS.csproj", "{0CED907A-EA62-4B74-A050-B4A129BBD379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.BLL", "TechMegStore.BLL\TechMegStore.BLL.csproj", "{C2D1946D-BE75-4F21-A683-66EF16E808EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.Models", "TechMegStore.Models\TechMegStore.Models.csproj", "{0DC7DB89-4641-42A0-A15C-86B6AEA45A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.IOC", "TechMegStore.IOC\TechMegStore.IOC.csproj", "{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.DTO", "TechMegStore.DTO\TechMegStore.DTO.csproj", "{DD08A585-C835-4102-9698-A3BFA71B3078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechMegStore.Utility", "TechMegStore.Utility\TechMegStore.Utility.csproj", "{98144BC2-2F54-408D-BE40-E74143620281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CED907A-EA62-4B74-A050-B4A129BBD379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CED907A-EA62-4B74-A050-B4A129BBD379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CED907A-EA62-4B74-A050-B4A129BBD379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CED907A-EA62-4B74-A050-B4A129BBD379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D1946D-BE75-4F21-A683-66EF16E808EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D1946D-BE75-4F21-A683-66EF16E808EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D1946D-BE75-4F21-A683-66EF16E808EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D1946D-BE75-4F21-A683-66EF16E808EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC7DB89-4641-42A0-A15C-86B6AEA45A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC7DB89-4641-42A0-A15C-86B6AEA45A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC7DB89-4641-42A0-A15C-86B6AEA45A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC7DB89-4641-42A0-A15C-86B6AEA45A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD08A585-C835-4102-9698-A3BFA71B3078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD08A585-C835-4102-9698-A3BFA71B3078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD08A585-C835-4102-9698-A3BFA71B3078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD08A585-C835-4102-9698-A3BFA71B3078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98144BC2-2F54-408D-BE40-E74143620281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98144BC2-2F54-408D-BE40-E74143620281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98144BC2-2F54-408D-BE40-E74143620281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98144BC2-2F54-408D-BE40-E74143620281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
