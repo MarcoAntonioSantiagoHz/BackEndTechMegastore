@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechMegStore.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d8cc681345cdfb28ee2e37d8f6f52d79bab301")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e50c2c6c8c115a9a66554308637fe0253aebae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechMegStore.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechMegStore.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

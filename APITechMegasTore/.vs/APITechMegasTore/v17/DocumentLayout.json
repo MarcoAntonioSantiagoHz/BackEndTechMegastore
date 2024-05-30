@@ -1,15 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}|TechMegStore.WebApi\\TechMegStore.WebApi.csproj|c:\\users\\marco antonio\\documents\\github\\backendtechmegastore\\apitechmegastore\\techmegstore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4BAB12-88D9-4A0F-BAAB-009CD06FE309}|TechMegStore.WebApi\\TechMegStore.WebApi.csproj|solutionrelative:techmegstore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}|TechMegStore.IOC\\TechMegStore.IOC.csproj|c:\\users\\marco antonio\\documents\\github\\backendtechmegastore\\apitechmegastore\\techmegstore.ioc\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DE11E0-B9B0-4BE7-81C6-1772F5FCBDCF}|TechMegStore.IOC\\TechMegStore.IOC.csproj|solutionrelative:techmegstore.ioc\\dependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CED907A-EA62-4B74-A050-B4A129BBD379}|TechMegStore.DATAS\\TechMegStore.DATAS.csproj|c:\\users\\marco antonio\\documents\\github\\backendtechmegastore\\apitechmegastore\\techmegstore.datas\\dbcontext\\techmegastoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CED907A-EA62-4B74-A050-B4A129BBD379}|TechMegStore.DATAS\\TechMegStore.DATAS.csproj|solutionrelative:techmegstore.datas\\dbcontext\\techmegastoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TechMegStore.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.WebApi\\Program.cs",
+              "RelativeToolTip": "TechMegStore.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:46:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependency.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.IOC\\Dependency.cs",
+              "RelativeDocumentMoniker": "TechMegStore.IOC\\Dependency.cs",
+              "ToolTip": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.IOC\\Dependency.cs",
+              "RelativeToolTip": "TechMegStore.IOC\\Dependency.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:32:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TechMegastoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.DATAS\\DBContext\\TechMegastoreDbContext.cs",
+              "RelativeDocumentMoniker": "TechMegStore.DATAS\\DBContext\\TechMegastoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Marco Antonio\\Documents\\GitHub\\BackEndTechMegastore\\APITechMegasTore\\TechMegStore.DATAS\\DBContext\\TechMegastoreDbContext.cs",
+              "RelativeToolTip": "TechMegStore.DATAS\\DBContext\\TechMegastoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:22:42.378Z",
+              "EditorCaption": ""
             }
           ]
         }
