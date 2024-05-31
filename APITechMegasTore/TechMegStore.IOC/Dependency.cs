@@ -16,6 +16,9 @@ using TechMegStore.DATAS.Repositories.Interfaces;
 using TechMegStore.DATAS.Repositories;
 
 
+//Hacemos referencias a nuestra capa utility de mapeos
+using TechMegStore.Utility;
+
 namespace TechMegStore.IOC
 {
     //DEPENDENCIA HACIA NUESTRA BASE DE DATOS
@@ -36,6 +39,10 @@ namespace TechMegStore.IOC
             services.AddTransient(typeof(IGenericRepository<>),typeof(GenericRepository<>));
             //Creamos la dependencia del  repositorio especificamente para las ventas 
             services.AddScoped<ISaleRepository, SaleRepository>();
+
+
+            //Agregamos las dependencias de Automapper con todos los Mappeos
+            services.AddAutoMapper(typeof(AutoMapperProfile)); //El AutoMapperProfile es Donde se encuentran todos nuestros mapeos 
         }
 
     }
