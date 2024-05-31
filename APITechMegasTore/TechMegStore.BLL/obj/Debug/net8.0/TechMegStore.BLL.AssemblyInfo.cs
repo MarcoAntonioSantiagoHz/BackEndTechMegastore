@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechMegStore.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e50c2c6c8c115a9a66554308637fe0253aebae8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e879f3d3b0ca912b41af90f6ca2865b7d9783ad9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechMegStore.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechMegStore.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,13 @@ using System.Text;
 using System.Threading.Tasks;
 using TechMegStore.DATAS.DBContext;
 
+
+//Utilizar referencias
+
+using TechMegStore.DATAS.Repositories.Interfaces;
+using TechMegStore.DATAS.Repositories;
+
+
 namespace TechMegStore.IOC
 {
     //DEPENDENCIA HACIA NUESTRA BASE DE DATOS
@@ -23,6 +30,12 @@ namespace TechMegStore.IOC
             options.UseSqlServer(configuration.GetConnectionString("stringSQL")); //Nombre de la cadena de conexion
             });
 
+
+
+            //Creamos las dependencias  de los repositorios que hemos creado en este caso para modelo generico
+            services.AddTransient(typeof(IGenericRepository<>),typeof(GenericRepository<>));
+            //Creamos la dependencia del  repositorio especificamente para las ventas 
+            services.AddScoped<ISaleRepository, SaleRepository>();
         }
 
     }
