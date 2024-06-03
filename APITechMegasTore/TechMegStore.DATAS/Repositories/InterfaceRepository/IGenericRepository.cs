@@ -16,7 +16,7 @@ namespace TechMegStore.DATAS.Repositories.Interfaces
         //Se trabajara de manera asyncrona utilizando el Task
 
 
-        //1.er Metodo obtener, se encargara de devolver algun modelo  ya sea un menu, una categoria, un usuario, un rol etc.
+        //1.er Metodo --"OBTENER"--, se encargara de devolver algun modelo  ya sea un menu, una categoria, un usuario, un rol etc.
         //GetModel: Recupera un único registro, retorna un TModel.
         Task<TModel> GetModel(Expression<Func<TModel, bool>> filter); //Este parametro se llama filter
 
@@ -32,10 +32,10 @@ namespace TechMegStore.DATAS.Repositories.Interfaces
         Task<bool> DeleteModel(TModel model);
 
         //5.to Esto devolvera la consulta del modelo,
-        //este método facilita la recuperación de datos de una manera flexible,
+        //este método --"CONSULTAR"-- facilita la recuperación de datos de una manera flexible,
         //permitiendo aplicar condiciones de filtrado cuando sea necesario.
         //GetAll: Recupera múltiples registros, retorna un IQueryable<TModel>.
-        Task<IQueryable<TModel>> GetAll(Expression<Func<TModel, bool>> filter = null); //Este parametro se llama filter
+        Task<IQueryable<TModel>> GetAllConsult(Expression<Func<TModel, bool>> filter = null); //Este parametro se llama filter
 
 
 

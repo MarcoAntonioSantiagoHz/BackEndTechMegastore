@@ -106,7 +106,7 @@ namespace TechMegStore.DATAS.Repositories
         }
 
         //Metodo consultar 
-        public async Task<IQueryable<TModel>> GetAll(Expression<Func<TModel, bool>> filter = null)
+        public async Task<IQueryable<TModel>> GetAllConsult(Expression<Func<TModel, bool>> filter = null)
         {
             //Iniciamos un capturados de errores por si llegan a existir
             try
@@ -124,5 +124,7 @@ namespace TechMegStore.DATAS.Repositories
                 throw;
             }
         }
+
+       
     }
 }

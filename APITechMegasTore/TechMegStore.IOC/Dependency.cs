@@ -18,6 +18,9 @@ using TechMegStore.DATAS.Repositories;
 
 //Hacemos referencias a nuestra capa utility de mapeos
 using TechMegStore.Utility;
+using TechMegStore.BLL.Services.Interface;
+using TechMegStore.BLL.Services;
+using Microsoft.Identity.Client;
 
 namespace TechMegStore.IOC
 {
@@ -43,6 +46,20 @@ namespace TechMegStore.IOC
 
             //Agregamos las dependencias de Automapper con todos los Mappeos
             services.AddAutoMapper(typeof(AutoMapperProfile)); //El AutoMapperProfile es Donde se encuentran todos nuestros mapeos 
+
+//Agregamos todas las dependencias de las interfaces / servicios  
+            services.AddScoped<IRoleService, RoleService>();
+            services.AddScoped<IUseerService, UseerService>();
+            services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IProductService,ProductService>();
+            services.AddScoped<ISaleService,SaleService>();
+            services.AddScoped<IDashBoardService, DashBoardService>();
+            services.AddScoped<IMenuService, MenuService>();
+         
+
+
+
+
         }
 
     }
