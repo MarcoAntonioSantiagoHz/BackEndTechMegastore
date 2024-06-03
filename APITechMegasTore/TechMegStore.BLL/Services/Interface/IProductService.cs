@@ -23,7 +23,7 @@ namespace TechMegStore.BLL.Services.Interface
         Task<bool> EditProduct(ProductDTO model);
 
         //Metodo de eliminar 
-        Task<bool> DeleteUser(int id);
+        Task<bool> DeleteProduct(int id);
 
     }
 }

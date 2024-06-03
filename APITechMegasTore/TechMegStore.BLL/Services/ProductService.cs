@@ -135,7 +135,7 @@ namespace TechMegStore.BLL.Services
         }
 
 
-        public async Task<bool> DeleteUser(int id)
+        public async Task<bool> DeleteProduct(int id)
         {
             try
             {
