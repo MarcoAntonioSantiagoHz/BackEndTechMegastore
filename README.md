@@ -1,1 +1,1 @@
-aaa
+Plataforma de gestión para TechMegastore, gestión y venta de aparatos tecnológicos. Implementado en .NET 8, con microservicios para autenticación, catálogo, clientes, inventario y ventas. Asegura seguridad, experiencia personalizada y operación eficiente.
