@@ -14,6 +14,7 @@ Plataforma de gestión para TechMegastore, gestión y venta de aparatos tecnoló
 
 ## Tecnologías Utilizadas
 
+- C#
 - .NET 8
 - ConexinSQLServer
 - Entity Framework Core
