@@ -1,4 +1,4 @@
-# TechMegastore Platform
+# TechMegastore BackEnd API
 
 ## Descripción
 
